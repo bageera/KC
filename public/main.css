@@ -142,6 +142,11 @@ body {
 	
 	margin: 0 5px 10px 5px;
 }
+
+#imgs img:hover{
+	
+	opacity: 0.5;
+}
  
 /*--- footer section - put whatever you want here ---*/
 
