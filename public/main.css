@@ -49,6 +49,7 @@ body {
 	margin:0 auto;
 	background-repeat: no-repeat;
 	background-position: center;
+	width: 100%;
 }
 
 #header h1 {
