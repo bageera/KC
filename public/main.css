@@ -45,7 +45,7 @@ body {
 /*--- header section - put whatever you want here ---*/
 #header {
 	margin-top: 10px;
-	background-image: url("/images/logo.png");
+	background-image: url("http:\\kareemcarter.net\images\logo.png");
 	margin:0 auto;
 	background-repeat: no-repeat;
 	background-position: center;
