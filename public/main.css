@@ -16,6 +16,7 @@ del { text-decoration: line-through; }
 table { border-collapse: collapse; border-spacing: 0; }
  
 body {
+    max-width: 1500px;
     font-size: 62.5%;
     text-align: center;
     color: #000000;
@@ -151,5 +152,14 @@ body {
 	padding-top: 20px;
 	color: black;
 	font-size: 15px;
+	
+}
+
+@media screen and (max-width:600px){
+	
+	#nav li {
+		display: block;
+		
+	}
 	
 }
