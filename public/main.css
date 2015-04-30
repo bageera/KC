@@ -146,6 +146,7 @@ body {
 #imgs img:hover{
 	
 	opacity: 0.7;
+	color: red;
 }
  
 /*--- footer section - put whatever you want here ---*/
